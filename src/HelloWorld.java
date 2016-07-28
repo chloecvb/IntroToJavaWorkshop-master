@@ -9,6 +9,5 @@ public static void main(String [] arg) {
 	JOptionPane.showInputDialog("Please enter your first and last name");
 	String userName =
 	JOptionPane.showInputDialog("Enter Name");
-	syso("Hi + username");
 }
 }
